@@ -8,7 +8,7 @@ Com perfil comunicativo e colaborativo, destaco-me na transformação ágil de i
 ## 🛠️ Hard Skills  
 - JavaScript  
 - Python  
-- HTML5 & CSS3  
+- HTML & CSS 
 
 ## 🤝 Soft Skills  
 - Comunicação clara e persuasiva  
