@@ -1,9 +1,9 @@
 # Antônio Neto
 
 # 💼 Sobre mim
-Sou um desenvolvedor Full-Stack em formação, com 17 anos, e uma base sólida em JavaScript, HTML e CSS. Apaixonado por tecnologia, resolução de problemas e criação de soluções inovadoras, estou sempre aprendendo novas ferramentas, frameworks e boas práticas para entregar aplicações de alta qualidade, escaláveis e focadas no usuário.
+Desenvolvedor Full-Stack, 17 anos, com sólida base em JavaScript, HTML e CSS. Apaixonado por tecnologia e inovação, foco em criar soluções escaláveis, eficientes e centradas na experiência do usuário.
 
-Com um perfil altamente comunicativo e colaborativo, destaco-me em ambientes de equipe, brainstorming de ideias e na transformação de conceitos em produtos reais e funcionais. Minha abordagem combina precisão técnica com pensamento criativo, garantindo desempenho e uma excelente experiência para o usuário.
+Com perfil comunicativo e colaborativo, destaco-me na transformação ágil de ideias em produtos reais e funcionais, combinando precisão técnica com criatividade para entregar resultados de alto impacto.
 
 ## 🛠️ Hard Skills  
 - JavaScript  
